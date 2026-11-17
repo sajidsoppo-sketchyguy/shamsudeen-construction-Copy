@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sajidsoppo-sketchyguy.github.io/shamsudeen-construction-Copy/sitemap.xml
